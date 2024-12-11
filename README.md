@@ -14,7 +14,7 @@ This repository contains the feature requirements, acceptance criteria, test cas
 - Customers with a balance below 100 TK can apply for a loan of up to 20,000 TK.
 - **Interest-Free Period**: Loans repaid within 30 days have no interest.
 - **Interest on Overdue Payments**: Daily compound interest of 1.8% applies after 30 days.
-- **Eligibility for Multiple Loans**: After repaying 50% of an outstanding loan, customers can apply for another loan.
+- **Eligibility for Multiple Loans**: Customers can apply for another loan after repaying 50% of an outstanding loan.
 
 ---
 
@@ -27,5 +27,4 @@ This repository contains the feature requirements, acceptance criteria, test cas
 
 ---
 
-## File Structure
 
